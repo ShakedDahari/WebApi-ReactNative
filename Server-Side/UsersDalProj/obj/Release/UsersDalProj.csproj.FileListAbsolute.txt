@@ -1,0 +1,6 @@
+C:\Users\shake\source\repos\3TL\UsersDalProj\bin\Release\UsersDalProj.dll
+C:\Users\shake\source\repos\3TL\UsersDalProj\bin\Release\UsersDalProj.pdb
+C:\Users\shake\source\repos\3TL\UsersDalProj\obj\Release\UsersDalProj.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\3TL\UsersDalProj\obj\Release\UsersDalProj.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\3TL\UsersDalProj\obj\Release\UsersDalProj.dll
+C:\Users\shake\source\repos\3TL\UsersDalProj\obj\Release\UsersDalProj.pdb

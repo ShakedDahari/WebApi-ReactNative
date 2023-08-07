@@ -1,0 +1,9 @@
+C:\Users\shake\source\repos\3TL\UsersBllProj\bin\Release\UsersBllProj.dll
+C:\Users\shake\source\repos\3TL\UsersBllProj\bin\Release\UsersBllProj.pdb
+C:\Users\shake\source\repos\3TL\UsersBllProj\bin\Release\UsersDalProj.dll
+C:\Users\shake\source\repos\3TL\UsersBllProj\bin\Release\UsersDalProj.pdb
+C:\Users\shake\source\repos\3TL\UsersBllProj\obj\Release\UsersBllProj.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\3TL\UsersBllProj\obj\Release\UsersBllProj.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\3TL\UsersBllProj\obj\Release\UsersBllProj.csproj.CopyComplete
+C:\Users\shake\source\repos\3TL\UsersBllProj\obj\Release\UsersBllProj.dll
+C:\Users\shake\source\repos\3TL\UsersBllProj\obj\Release\UsersBllProj.pdb

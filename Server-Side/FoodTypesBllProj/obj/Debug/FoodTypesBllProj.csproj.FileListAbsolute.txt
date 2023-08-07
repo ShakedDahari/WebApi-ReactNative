@@ -1,0 +1,9 @@
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\bin\Debug\FoodTypesBllProj.dll
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\bin\Debug\FoodTypesBllProj.pdb
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\bin\Debug\FoodTypesDalProj.dll
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\bin\Debug\FoodTypesDalProj.pdb
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\obj\Debug\FoodTypesBllProj.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\obj\Debug\FoodTypesBllProj.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\obj\Debug\FoodTypesBllProj.csproj.CopyComplete
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\obj\Debug\FoodTypesBllProj.dll
+C:\Users\shake\source\repos\3TL\FoodTypesBllProj\obj\Debug\FoodTypesBllProj.pdb

@@ -1,0 +1,1 @@
+export const apiUrl = 'https://shaked1299.bsite.net/';

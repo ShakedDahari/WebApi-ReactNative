@@ -1,0 +1,6 @@
+C:\Users\shake\source\repos\3TL\FoodTypesDalProj\bin\Debug\FoodTypesDalProj.dll
+C:\Users\shake\source\repos\3TL\FoodTypesDalProj\bin\Debug\FoodTypesDalProj.pdb
+C:\Users\shake\source\repos\3TL\FoodTypesDalProj\obj\Debug\FoodTypesDalProj.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\3TL\FoodTypesDalProj\obj\Debug\FoodTypesDalProj.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\3TL\FoodTypesDalProj\obj\Debug\FoodTypesDalProj.dll
+C:\Users\shake\source\repos\3TL\FoodTypesDalProj\obj\Debug\FoodTypesDalProj.pdb

@@ -1,0 +1,9 @@
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\bin\Release\RestaurantsBllProj.dll
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\bin\Release\RestaurantsBllProj.pdb
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\bin\Release\RestaurantsDalProj.dll
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\bin\Release\RestaurantsDalProj.pdb
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\obj\Release\RestaurantsBllProj.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\obj\Release\RestaurantsBllProj.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\obj\Release\RestaurantsBllProj.csproj.CopyComplete
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\obj\Release\RestaurantsBllProj.dll
+C:\Users\shake\source\repos\3TL\RestaurantsBllProj\obj\Release\RestaurantsBllProj.pdb

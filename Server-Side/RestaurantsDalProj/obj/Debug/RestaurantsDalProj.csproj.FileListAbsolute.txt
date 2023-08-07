@@ -1,0 +1,9 @@
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\bin\Debug\RestaurantsDalProj.dll
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\bin\Debug\RestaurantsDalProj.pdb
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\obj\Debug\RestaurantsDalProj.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\obj\Debug\RestaurantsDalProj.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\obj\Debug\RestaurantsDalProj.dll
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\obj\Debug\RestaurantsDalProj.pdb
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shake\source\repos\3TL\RestaurantsDalProj\obj\Debug\RestaurantsDalProj.csproj.CopyComplete
